@@ -1,0 +1,17 @@
+.intro{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(241,97,29,1) 0%, rgba(255,255,255,1) 52%, rgba(252,65,65,1) 100%);
+}
+
+.progress-bar{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.head{
+    font-size: 50px;
+}
